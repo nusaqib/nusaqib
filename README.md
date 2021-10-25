@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @najm-control
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+[![Najm's GitHub stats](https://github-readme-stats.vercel.app/api?username=najm-control)](https://github.com/anuraghazra/github-readme-stats)
+
+- 👋 Hi, I’m Najm us Saqib
+- 👀 I’m interested in Control Systems for big science experiments.
+- 🌱 I’m currently learning software development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Najm's GitHub stats](https://github-readme-stats.vercel.app/api?username=najm-control)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!---
