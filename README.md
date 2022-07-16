@@ -1,4 +1,7 @@
 - 👋 Hi, I’m Najm us Saqib
+- Got actually interested in control systems/software development during my first job where we were trying to build indigenous medical linear accelerator
+- Currently participating in developing control systems for world class synchrotron light source research facility
+- On the track of becoming a good software developer
 
 
 <!---
